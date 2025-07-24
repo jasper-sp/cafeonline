@@ -57,7 +57,7 @@ li a {
   text-decoration: none;
 }
 li a:hover {
-  background-color: #111;
+  background-color: rgb(0, 74, 128);
 }
 img {
   max-width: 100%;
